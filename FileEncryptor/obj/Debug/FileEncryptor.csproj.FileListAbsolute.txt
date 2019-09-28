@@ -1,0 +1,12 @@
+C:\Users\MadBeast\source\repos\FileEncryptor\FileEncryptor\bin\Debug\FileEncryptor.exe.config
+C:\Users\MadBeast\source\repos\FileEncryptor\FileEncryptor\bin\Debug\FileEncryptor.exe
+C:\Users\MadBeast\source\repos\FileEncryptor\FileEncryptor\bin\Debug\FileEncryptor.pdb
+C:\Users\MadBeast\source\repos\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.csprojAssemblyReference.cache
+C:\Users\MadBeast\source\repos\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.Properties.Resources.resources
+C:\Users\MadBeast\source\repos\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.csproj.GenerateResource.cache
+C:\Users\MadBeast\source\repos\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\MadBeast\source\repos\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.exe
+C:\Users\MadBeast\source\repos\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.pdb
+C:\Users\MadBeast\source\repos\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.EncodeForm.resources
+C:\Users\MadBeast\source\repos\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.FirstForm.resources
+C:\Users\MadBeast\source\repos\FileEncryptor\FileEncryptor\obj\Debug\FileEncryptor.DiscodeForm.resources
